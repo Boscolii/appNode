@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   links:{
     backgroundColor: '#9a5aee',
     borderRadius: 60,
-    borderWidth: 3,
+    borderWidth: 4,
     paddingHorizontal: 10,
     paddingVertical: 5,
     marginTop: 20,
